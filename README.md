@@ -14,14 +14,15 @@
 
 ## 小组成员总结报告
 
+
 - 存放目录：[summary/](https://github.com/Service-Computing-Group/document/tree/master/summary)
 
-- [17343034_郭佳俊_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343034.md)
+- [17343034_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343034.md)
 
-- [17343036_郭章旭_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343036.md)
+- [17343036_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343036.md)
 
-- [17343037_海明皓_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343037.md)
+- [17343037_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343037.md)
 
-- [17343038_何思远_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343038.md)
+- [17343038_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343038.md)
 
-- [17343055_孔伟_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343055.md)
+- [17343055_项目小结](https://github.com/Service-Computing-Group/document/blob/master/summary/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93_17343055.md)
